@@ -33,7 +33,7 @@
     "esbuild-register": "^3.6.0",
     "exif-reader": "^2.0.2",
     "get-port": "^5.1.1",
-    "http-proxy-middleware": "^2.0.9",
+    "http-proxy-middleware": "^4.2.0",
     "jsdom": "^25.0.1",
     "json5": "^2.2.3",
     "lodash": "^4.17.21",
